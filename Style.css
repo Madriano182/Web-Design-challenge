@@ -1,0 +1,62 @@
+body{
+    background-color:#e4e4e4e0;
+    font-family: 'Times New Roman', Times, serif
+    font-weight: 280;
+    line-height: 1.5;
+}
+
+.container {
+    
+    background-color: white;
+    
+    
+    
+}
+
+.container-up .navbar-brand {
+    color: white;
+    height: 50px;
+    padding: 10px;
+    background: rgb(26, 163, 149)
+}
+
+
+
+.container h1{
+    font-weight: bold;
+    font-size: 220%;
+    color:rgb(26, 163, 149);
+    font-family: 'Times New Roman', Times, serif
+    margin-top: 70px;
+    padding: 20px;
+    align-content: center;
+}
+
+
+.container h2{
+    font-weight: bold;
+    font-size: 220%;
+    color:rgb(26, 163, 149);
+    font-family: 'Times New Roman', Times, serif
+    margin-top: 70px;
+    padding: 20px;
+    align-content: center;
+}
+
+
+.container h3{
+    font-weight: bold;
+    font-size: 220%;
+    color:rgb(26, 163, 149);
+    font-family: 'Times New Roman', Times, serif
+    margin-top: 70px;
+    padding: 20px;
+    align-content: center;
+}
+
+
+@media (max-width:480px) {
+    .navbar li{
+      padding: 10px;
+    }
+  
